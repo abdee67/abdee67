@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning phyton and php frameworks(laravel)
 - 💞️ I’m looking to collaborate on web deveplopment in whatever language u want 
 - 📫 How to reach me?Ok,i'm well familiar with tg.do u? here anyway..https://t.me/al_aziiz67
-- 😄 Pronouns: ...IDGAFF
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...don't say to me "did i stutter?No u don't.I do.U can't do it better than me.
 
 <!---
