@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdee67(abdi)
 - 👀 I’m interested in such thing.. i mean coding thing
-- 🌱 I’m currently learning flutter app development and Java EE(JSF) and Primeface 
+- 🌱 I’m currently learning and building flutter/dart cross platform app development
 - 💞️ I’m looking to collaborate on web deveplopment in whatever language u want 
 - 📫 How to reach me?Ok,i'm well familiar with tg.do u? here anyway..https://t.me/ClassNotFound
 - 😄 Pronouns: ...he/him
