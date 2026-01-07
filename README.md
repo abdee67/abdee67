@@ -1,63 +1,84 @@
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abde67)
-``` :contentReference[oaicite:3]{index=3}
+<div align="center">
+  <h1>Hi, I'm Abdi 👋</h1>
+  <p>Flutter & Full-Stack Developer · Building cool stuff 🚀</p>
+</div>
+
+<p align="center">
+  <a href="https://github.com/abdee67">
+    <img src="https://img.shields.io/github/followers/abdee67?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/abdee67?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Active-blue?style=for-the-badge" />
+  </a>
+  <a href="https://t.me/ClassNotFound">
+    <img src="https://img.shields.io/badge/Telegram-@ClassNotFound-26A5E4?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
 
 ---
 
-## 📊 What *github-readme-stats* **doesn’t do**
+## 👨‍💻 About Me
 
-⚠️ It **doesn’t expose JSON-structured data** directly for API use. It generates **SVG cards** — which are great for README display but not raw, structured stats your own frontend could flexibly use ⛔. :contentReference[oaicite:4]{index=4}
-
----
-
-## 👍 What *you can take from it
-
-While you’ll fetch GitHub data differently in your portfolio backend than they do, this project is a **great reference** for:
-
-### 1. **What metrics are valuable**
-They compute:
-- ⭐ Stars
-- 📦 Repos
-- 🔄 Commits (including annual)
-- 🛠 PRs, merged PRs, issues
-- 📊 Language breakdown
-These are all metrics you might consider including in your own portfolio. :contentReference[oaicite:5]{index=5}
-
-### 2. **How to avoid rate limits**
-They implement **caching & pagination** (since GitHub API is 5,000 reqs/hour per token) — something you’ll very likely want in your own service. :contentReference[oaicite:6]{index=6}
-
-### 3. **Deploying your own service**
-You can fork + deploy your own instance to avoid public rate limits — useful if you let your portfolio call a self-hosted endpoint instead of GitHub directly. :contentReference[oaicite:7]{index=7}
+- 👋 Hi, I’m **Abdi**
+- 🚀 I build **cross-platform apps** and **scalable backends**
+- 🌱 Currently focused on **Flutter / Dart**, **Java**, and **Supabase**
+- 🤝 Open to collaboration on **mobile & web development**
+- 📫 Reach me on **Telegram** → [@ClassNotFound](https://t.me/ClassNotFound)
+- 😄 Pronouns: **he / him**
+- ⚡ Fun fact: *“Don’t say ‘Did I stutter?’ — I do 😄”*
 
 ---
 
-## 🧠 What this means for *your* portfolio
+## 🛠 Tech Stack
 
-Since you’re building a portfolio with **structured UI (not just image cards)** and using Jaspr:
-
-### 🔹 Do this instead of embedding SVG endpoints
-- Fetch data from **GitHub REST API**
-- Parse the JSON
-- Store it in your own models
-- Use it to build your custom GitHub stats section
-
-This gives you:
-✔ Full control over which stats you display  
-✔ Better integration with charts, graphs, and styled components  
-✔ No dependency on someone else’s hosted SVG service
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,supabase,mysql,docker,git,github,linux" />
+</p>
 
 ---
 
-## 📌 In short
+## 📊 GitHub Stats
 
-| Feature | github-readme-stats | Your Portfolio Backend |
-|---------|---------------------|------------------------|
-| Structured JSON | ❌ | ✅ |
-| SVG cards | ✅ | Optional |
-| Rate-limit smart | Partial | You should handle |
-| Custom visuals | Limited | Full control |
-| Tailwind + React/Widgets | ❌ | Yes |
+<p align="center">
+
+  <a href="https://github.com/abdee67/github-readme-stats/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/abdee67/github-readme-stats" />
+  </a>
+
+  <a href="https://github.com/abdee67/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/abdee67/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/abdee67/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abdee67/github-readme-stats?color=0088ff" />
+  </a>
+
+  <br />
+  <br />
 
 ---
 
-If you want, I can now help you **translate the github-readme-stats logic into your portfolio backend**, meaning we can build a **service that fetches all the same metrics (stars, commits, PRs, languages, etc.)** and outputs clean JSON for your UI. Just tell me what metrics you want first! 🚀
-::contentReference[oaicite:8]{index=8}
+## 🔥 What I’m Working On
+
+- 📱 Flutter apps (clean architecture, production-ready)
+- 🌐 Backend APIs (Java, Supabase)
+- 🧠 Real-world projects with real users
+- 🚀 Open-source & personal tools
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://t.me/ClassNotFound">
+    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="https://github.com/abdee67">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like what I build, consider following — more cool stuff coming!
+</p>
