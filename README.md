@@ -1,3 +1,7 @@
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abde67)
+ :contentReference[oaicite:3]{index=3}
+
+---
 - 👋 Hi, I’m @abdee67(abdi)
 - 👀 I’m interested in building cool stuff..
 - 🌱 I’m currently learning and building flutter/dart cross platform app
