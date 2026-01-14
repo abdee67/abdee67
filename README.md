@@ -40,20 +40,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
   <a href="https://github.com/abdee67/github-readme-stats/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/abdee67/github-readme-stats" />
   </a>
-
   <a href="https://github.com/abdee67/github-readme-stats/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/abdee67/github-readme-stats?color=0088ff" />
   </a>
   <a href="https://github.com/abdee67/github-readme-stats/pulls">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abdee67/github-readme-stats?color=0088ff" />
   </a>
+</p>
 
-  <br />
-  <br />
+---
+
+## ⏱️ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
