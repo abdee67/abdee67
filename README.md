@@ -58,11 +58,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2025 - To: 24 January 2026
+From: 23 October 2025 - To: 26 January 2026
 
-Total Time: 573 hrs 16 mins
+Total Time: 578 hrs 3 mins
 
-Dart              562 hrs 12 mins >>>>>>>>>>>>>>>>>>>>>>>>>   98.04 %
+Dart              566 hrs 44 mins >>>>>>>>>>>>>>>>>>>>>>>>>   98.01 %
 Java              3 hrs 44 mins   -------------------------   00.65 %
 Kotlin            42 mins         -------------------------   00.12 %
 XML               42 mins         -------------------------   00.12 %
