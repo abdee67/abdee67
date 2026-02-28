@@ -58,15 +58,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2025 - To: 25 February 2026
+From: 23 October 2025 - To: 27 February 2026
 
-Total Time: 638 hrs 35 mins
+Total Time: 644 hrs 32 mins
 
-Dart              623 hrs 34 mins       >>>>>>>>>>>>>>>>>>>>>>>>-   97.62 %
+Dart              629 hrs 31 mins       >>>>>>>>>>>>>>>>>>>>>>>>-   97.64 %
 Java              3 hrs 50 mins         -------------------------   00.60 %
 Python            2 hrs 2 mins          -------------------------   00.32 %
 Git Config        58 mins               -------------------------   00.15 %
-XML               52 mins               -------------------------   00.14 %
+XML               52 mins               -------------------------   00.13 %
 Kotlin            45 mins               -------------------------   00.12 %
 Text              40 mins               -------------------------   00.11 %
 Bash              39 mins               -------------------------   00.10 %
