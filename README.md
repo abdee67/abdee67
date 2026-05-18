@@ -60,10 +60,10 @@
 ```txt
 From: 23 October 2025 - To: 16 May 2026
 
-Total Time: 854 hrs 5 mins
+Total Time: 860 hrs 54 mins
 
-Dart              820 hrs 6 mins        >>>>>>>>>>>>>>>>>>-------   71.21 %
-Other             297 hrs 38 mins       >>>>>>-------------------   25.84 %
+Dart              825 hrs 11 mins       >>>>>>>>>>>>>>>>>>-------   71.35 %
+Other             295 hrs 40 mins       >>>>>>-------------------   25.56 %
 ```
 
 <!--END_SECTION:waka-->
