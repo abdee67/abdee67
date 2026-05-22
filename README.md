@@ -58,12 +58,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2025 - To: 20 May 2026
+From: 23 October 2025 - To: 21 May 2026
 
-Total Time: 869 hrs 58 mins
+Total Time: 872 hrs 58 mins
 
-Dart              827 hrs 25 mins       >>>>>>>>>>>>>>>>>--------   68.70 %
-Other             334 hrs 26 mins       >>>>>>>------------------   27.77 %
+Dart              828 hrs 49 mins       >>>>>>>>>>>>>>>>>--------   68.15 %
+Other             343 hrs 10 mins       >>>>>>>------------------   28.22 %
 ```
 
 <!--END_SECTION:waka-->
